@@ -1,3 +1,3 @@
 # insper-agil
 
-Grupo: Tomás Alessi, Alexande Magno, Alexande Magno, Enzo Quentai, Eduardo Barros.
+Grupo: Tomás Alessi, Alexande Magno, Alexande Wever, Enzo Quentai, Eduardo Barros.
